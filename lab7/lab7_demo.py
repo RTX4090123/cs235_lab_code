@@ -112,7 +112,7 @@ if __name__ == '__main__':
     demo_select_all()
 
     # Demo 2
-    # demo_pagination()
+    demo_pagination()
 
     # Demo 3
     # NOTE:
